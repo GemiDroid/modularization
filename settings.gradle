@@ -1,0 +1,4 @@
+rootProject.name='OrangeTask'
+include ':app'
+include ':loginModule'
+include ':dataModule'
