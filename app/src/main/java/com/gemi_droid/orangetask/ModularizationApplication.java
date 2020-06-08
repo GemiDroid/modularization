@@ -2,7 +2,7 @@ package com.gemi_droid.orangetask;
 
 import android.app.Application;
 
-public class OrangeApplication extends Application {
+public class ModularizationApplication extends Application {
 
 
     @Override
